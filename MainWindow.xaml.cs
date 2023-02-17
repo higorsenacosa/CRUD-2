@@ -22,6 +22,7 @@ namespace CRUD_2
     {
         public MainWindow()
         {
+            //mamamma
             InitializeComponent();
         }
     }
